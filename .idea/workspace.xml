@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bb97167-1552-4e09-a73b-e8046750935b" name="Default Changelist" comment="" />
+    <list default="true" id="7bb97167-1552-4e09-a73b-e8046750935b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Read_word_CriAt_Client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,13 +14,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Read_Word_Document.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="151" column="8" selection-start-line="151" selection-start-column="8" selection-end-line="152" selection-end-column="24" />
+            <state relative-caret-position="222">
+              <caret line="157" selection-start-line="157" selection-end-line="159" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Read_word_CriAt_Client.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -31,18 +47,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Read_Word_Document.py" />
+        <option value="$PROJECT_DIR$/Read_word_CriAt_Client.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="542" />
-    <option name="y" value="135" />
-    <option name="width" value="994" />
-    <option name="height" value="1055" />
+    <option name="x" value="541" />
+    <option name="y" value="134" />
+    <option name="width" value="995" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -53,8 +73,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="Read_Word_Extract_Data" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Read_Word_Extract_Data" type="462c0819:PsiDirectoryNode" />
+              <item name="Read_Word_Document" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Read_Word_Document" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -64,10 +84,16 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Kitty\NUS\Internship-PartTimeJob\RMI-CRI\Read_Word_Document" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -81,7 +107,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Read_word_CriAt_Client">
     <configuration name="Read_Word_Document" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Read_Word_Extract_Data" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,8 +130,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Read_word_CriAt_Client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Read_Word_Extract_Data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Read_word_CriAt_Client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Read_word_CriAt_Client" />
         <item itemvalue="Python.Read_Word_Document" />
       </list>
     </recent_temporary>
@@ -122,22 +171,24 @@
       <updated>1561619915378</updated>
       <workItem from="1561619916695" duration="1016000" />
       <workItem from="1561627417019" duration="16398000" />
+      <workItem from="1561705635749" duration="936000" />
+      <workItem from="1562050280720" duration="4888000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17414000" />
+    <option name="totallyTimeSpent" value="23238000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1425" height="843" extended-state="6" />
+    <frame x="-7" y="-7" width="1422" height="843" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19211103" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49746192" visible="true" weight="0.19765739" />
+      <window_info id="Structure" order="1" sideWeight="0.5025381" side_tool="true" weight="0.19765739" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32896653" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32896653" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5458515" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -148,7 +199,7 @@
       <window_info anchor="bottom" id="Statistic" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="13" visible="true" weight="0.48908296" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.3202329" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -156,7 +207,7 @@
       <window_info anchor="right" id="JuliaSciView" order="4" />
       <window_info anchor="right" id="SciView" order="5" />
       <window_info anchor="right" id="R Graphics" order="6" />
-      <window_info anchor="right" id="GfmBrowser" order="7" />
+      <window_info anchor="right" id="GfmBrowser" order="7" weight="0.329429" />
       <window_info anchor="right" id="Database" order="8" />
     </layout>
   </component>
@@ -165,14 +216,28 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Read_Word_Extract_Data$Read_Word_Document.coverage" NAME="Read_Word_Document Coverage Results" MODIFIED="1561620195495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Read_Word_Document$Read_word_CriAt_Client.coverage" NAME="Read_word_CriAt_Client Coverage Results" MODIFIED="1562055631979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Read_Word_Document.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="151" column="8" selection-start-line="151" selection-start-column="8" selection-end-line="152" selection-end-column="24" />
+        <state relative-caret-position="222">
+          <caret line="157" selection-start-line="157" selection-end-line="159" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linhchi.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Read_word_CriAt_Client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
